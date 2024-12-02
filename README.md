@@ -1,6 +1,6 @@
 # Repositório de Códigos e Recursos
 
-Este é o repositório de códigos e recursos do livro de distribuição gratuita, "**O Mais** **_Básico do Básico do Básico_** **sobre a Aprendizagem Artificial**", e é a contraparte escrita do curso com o mesmo nome. O leitor interessado poderá adquiri-lo no [website do autor](https://aprodrigues.com). O livro apresenta a estrutura mais fundamental de um Perceptron e explica como é que a capacidade de aprender é dada a ela.
+Este é o repositório de códigos e recursos do livro de distribuição gratuita, "**O Mais** **_Básico do Básico do Básico_** **sobre a Aprendizagem Artificial**", e é a contraparte escrita do curso com o mesmo nome que em breve estará pronto para ser lançado. O leitor interessado poderá adquiri-lo no [website do autor](https://aprodrigues.com). O livro apresenta a estrutura mais fundamental de um Perceptron e explica como é que a capacidade de aprender é dada a ela.
 
 Seu conteúdo está baseado nos dois primeiros capítulos do livro [*"Equações que Aprendem: Uma Introdução aos Fundamentos Matemáticos da Aprendizagem Artificial"*](https://aprodrigues.com/perceptron-page.html), que é o primeiro volume da coleção *"Equações que Aprendem"* e trata da aprendizagem de máquina no Perceptron, provavelmente a mais básica das arquiteturas de máquina construídas para simular aspectos do funcionamento de um neurônio real.
 
