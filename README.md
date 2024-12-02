@@ -6,12 +6,10 @@ Seu conteúdo está baseado nos dois primeiros capítulos do livro [*"Equações
 
 A coleção *"Equações que Aprendem"* vai mais a fundo na aprendizagem das máquinas e mostra como dotar modelos profundos com o dom do aprendizado. Este é o admirável segredo que está por trás das maravilhas que vemos, hoje em dia, nas IA's mais conhecidas, como, por exemplo, o ChatGPT ou o Gemini.
 
-Assim, este presente livro é, de fato, "**O Mais** **_Básico do Básico do Básico_** **sobre a Aprendizagem Artificial**" e qualquer pessoa pode utilizá-lo para ter um primeiro contato com o fascinante mundo em que as máquinas são capazes de aprender quase qualquer coisa e simular aspectos importantes da inteligência humana, como ver, ler, falar, entender o que outro ser humano fala, e várias outras capacidades utilíssimas e que têm estado cada vez mais ao alcance de todos.
+Assim, este presente livro é, de fato, "**O Mais** **_Básico do Básico do Básico_** **sobre a Aprendizagem Artificial**" e qualquer pessoa pode utilizá-lo para ter um primeiro contato com o fascinante mundo em que as máquinas são capazes de aprender quase qualquer coisa e simular aspectos importantes da inteligência humana, como ver, ler, falar, entender o que um ser humano fala, e várias outras capacidades utilíssimas e que têm estado cada vez mais ao alcance de todos.
 
 ## Recursos do Repositório
 
 Você pode encontrar todos os códigos deste livro no notebook que está no Google Colab:
 
-[![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aleperrod/perceptron-book/blob/main/notebooks/Basics_of_basics.ipynb)
-
-No repositório, há também um botão no arquivo `README` que o levará diretamente ao notebook no Google Colab, permitindo que você execute os exemplos de forma prática e interativa.
+[![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aleperrod/perceptron-book/blob/master/Basics_of_basics.ipynb)
