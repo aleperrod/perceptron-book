@@ -8,10 +8,11 @@ This is the official code repository for the book **When Equations Learn** by A.
 
 ### Navegação / Navigation
 
-**[🇵🇹 Português](#português) &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; [🇬🇧 English](#english)**
+**[🇵🇹 Português](#secao-portugues) &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; [🇬🇧 English](#secao-ingles)**
+<!-- **[🇵🇹 Português](#português) &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; [🇬🇧 English](#english)** -->
 
 ---
-
+<a name="secao-portugues"></a>
 ## 🇵🇹 Português
 
 ### Equações que Aprendem: Uma Introdução aos Fundamentos Matemáticos da Aprendizagem Artificial
@@ -25,7 +26,9 @@ Aqui você encontrará o código-fonte dos exemplos práticos discutidos no livr
 #### Notebooks Disponíveis
 
 * **Introdução - A Brincadeira Inicial:**
-    * Ilustra o conceito intuitivo de aprendizado com a "brincadeira" apresentada no Capítulo 1, usando Python e NumPy puros.
+    * Ilustra o conceito intuitivo de aprendizado artificial com a "brincadeira" apresentada no Capítulo 1, usando Python e NumPy puros.
+
+    [![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aleperrod/perceptron-book/blob/master/equacoes_que_aprendem_capitulo_0_exemplo_1.ipynb)
 
 * **Capítulo 3 - Retropropagação com NumPy:**
     * Implementação "do zero" do aprendizado de um Perceptron de neurônio único para classificação de imagens. Este exemplo mostra a mecânica da retropropagação em sua forma mais pura.
@@ -34,10 +37,14 @@ Aqui você encontrará o código-fonte dos exemplos práticos discutidos no livr
     
 
 * **Capítulo 4 - Múltiplas Camadas com TensorFlow:**
-    * Introduz o framework TensorFlow/Keras, reconstruindo a rede do capítulo anterior. O treino ainda é feito exemplo por exemplo, servindo como uma ponte perfeita entre a implementação "na mão" e as otimizações do capítulo seguinte.
+    * Introduz o framework TensorFlow/Keras. O treino ainda é feito exemplo por exemplo, servindo como uma ponte perfeita entre a implementação com lotes e as otimizações do capítulo seguinte.
+
+    [![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aleperrod/perceptron-book/blob/master/equacoes_que_aprendem_capitulo_4_exemplo_1.ipynb)
 
 * **Capítulo 5 - Treino em Lotes com TensorFlow:**
     * Exemplo avançado que implementa uma rede de múltiplas camadas para classificar o dataset MNIST, mostrando o treino em lotes e a **implementação manual da retropropagação** dentro do TensorFlow.
+
+    [![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aleperrod/perceptron-book/blob/master/equacoes_que_aprendem_capitulo_5_exemplo_1.ipynb)
 
 #### Como Usar
 
@@ -45,11 +52,11 @@ Cada notebook pode ser aberto diretamente no Google Colab clicando no arquivo `.
 
 #### Links
 
-* Para saber mais sobre o livro ou adquirir sua cópia, visite a página oficial: **[aprodrigues.com/o-livro-em-portugues](https://aprodrigues.com/o-livro-em-portugues)**
+* Para saber mais sobre o livro, lê-lo online, baixar uma cópia ou adquirir sua cópia física, visite a página oficial: **[Livro Equações que Aprendem](https://www.aprodrigues.com/perceptron-page.html)**
 * Conheça mais sobre o autor em: **[aprodrigues.com](https://aprodrigues.com)**
 
 ---
-
+<a name="secao-ingles"></a>
 ## 🇬🇧 English
 
 ### When Equations Learn: An Intuitive Guide to the Math of AI
