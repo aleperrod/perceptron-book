@@ -44,7 +44,7 @@ Aqui você encontrará o código-fonte dos exemplos práticos discutidos no livr
 * **Capítulo 5 - Treino em Lotes com TensorFlow:**
     * Exemplo avançado que implementa uma rede de múltiplas camadas para classificar o dataset MNIST, mostrando o treino em lotes e a **implementação manual da retropropagação** dentro do TensorFlow.
 
-    [![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aleperrod/perceptron-book/blob/master/equacoes_que_aprendem_capitulo_5_exemplo_1.ipynb)
+    [![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aleperrod/perceptron-book/blob/master/equacoes_que_aprendem_capitulo_5_exemplo_2.ipynb)
 
 #### Como Usar
 
@@ -70,22 +70,30 @@ Here you will find the source code for the practical examples discussed in the b
 #### Available Notebooks
 
 * **Introduction - The Initial Game:**
-    * Illustrates the intuitive concept of learning with the "little game" presented in Chapter 1, using pure Python and NumPy.
+    * Illustrates the intuitive concept of artificial learning with the "little game" presented in Chapter 1, using pure Python and NumPy.
+
+    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aleperrod/perceptron-book/blob/main/when-equations-learn-chapter-0-initial-game.ipynb)
 
 * **Chapter 3 - Backpropagation with NumPy:**
     * A "from scratch" implementation of a single-neuron Perceptron for image classification. This example shows the mechanics of backpropagation in its purest form.
 
+    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aleperrod/perceptron-book/blob/main/when-equations-learn-chapter-3-numpy-backprop.ipynb)
+
 * **Chapter 4 - Multi-Layer Networks with TensorFlow:**
-    * Introduces the TensorFlow/Keras framework by rebuilding the previous chapter's network. Training is still done example-by-example, serving as a perfect bridge between the 'from scratch' implementation and the optimizations in the next chapter.
+    * Introduces the TensorFlow/Keras framework. Training is still performed example-by-example, serving as a perfect bridge to the batch training and optimizations in the next chapter.
+
+    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aleperrod/perceptron-book/blob/main/when-equations-learn-chapter-4-tensorflow-single-example.ipynb)
 
 * **Chapter 5 - Batch Training with TensorFlow:**
-    * An advanced example that implements a multi-layer network to classify the MNIST dataset. The code demonstrates batch training and the **manual implementation of backpropagation** within TensorFlow.
+    * An advanced example that implements a multi-layer network to classify the MNIST dataset, showing batch training and the **manual implementation of backpropagation** within TensorFlow.
+
+    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aleperrod/perceptron-book/blob/main/when-equations-learn-chapter-5-tensorflow-batch-training.ipynb)
 
 #### How to Use
 
-Each notebook can be opened directly in Google Colab by clicking on the corresponding `.ipynb` file in the repository. No local installation is required to run the examples.
+Each notebook can be opened directly in Google Colab by clicking the button above or the corresponding `.ipynb` file in the repository. No local installation is required to run the examples.
 
 #### Links
 
-* To learn more about the book or to get your copy, visit the official page: **[aprodrigues.com/the-book-in-english](https://aprodrigues.com/the-book-in-english)**
+* To learn more about the book, read it online, download a copy, or purchase a physical copy, visit the official page: **[The Book: When Equations Learn](https://www.aprodrigues.com/perceptron-in-english-page.html)**
 * Learn more about the author at: **[aprodrigues.com](https://aprodrigues.com)**
