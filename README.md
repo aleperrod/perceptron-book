@@ -30,7 +30,7 @@ Aqui você encontrará o código-fonte dos exemplos práticos discutidos no livr
 * **Capítulo 3 - Retropropagação com NumPy:**
     * Implementação "do zero" do aprendizado de um Perceptron de neurônio único para classificação de imagens. Este exemplo mostra a mecânica da retropropagação em sua forma mais pura.
 
-    [![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aleperrod/perceptron-book/blob/main/Capitulo_3_Retropropagacao_com_NumPy.ipynb)
+    [![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aleperrod/perceptron-book/blob/main/Capitulo_3_Retropropagacao.ipynb)
     
 
 * **Capítulo 4 - Múltiplas Camadas com TensorFlow:**
