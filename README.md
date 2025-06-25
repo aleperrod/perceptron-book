@@ -72,22 +72,22 @@ Here you will find the source code for the practical examples discussed in the b
 * **Introduction - The Initial Game:**
     * Illustrates the intuitive concept of artificial learning with the "little game" presented in Chapter 1, using pure Python and NumPy.
 
-    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aleperrod/perceptron-book/blob/master/when-equations-learn-chapter-0-initial-game.ipynb)
+    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aleperrod/perceptron-book/blob/master/when_equations_learn_chapter_0_initial_game.ipynb)
 
 * **Chapter 3 - Backpropagation with NumPy:**
     * A "from scratch" implementation of a single-neuron Perceptron for image classification. This example shows the mechanics of backpropagation in its purest form.
 
-    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aleperrod/perceptron-book/blob/master/when-equations-learn-chapter-3-numpy-backprop.ipynb)
+    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aleperrod/perceptron-book/blob/master/when_equations_learn_chapter_3_numpy_backprop.ipynb)
 
 * **Chapter 4 - Multi-Layer Networks with TensorFlow:**
     * Introduces the TensorFlow/Keras framework. Training is still performed example-by-example, serving as a perfect bridge to the batch training and optimizations in the next chapter.
 
-    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aleperrod/perceptron-book/blob/master/when-equations-learn-chapter-4-tensorflow-single-example.ipynb)
+    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aleperrod/perceptron-book/blob/master/when_equations_learn_chapter_4_tensorflow_single_example.ipynb)
 
 * **Chapter 5 - Batch Training with TensorFlow:**
     * An advanced example that implements a multi-layer network to classify the MNIST dataset, showing batch training and the **manual implementation of backpropagation** within TensorFlow.
 
-    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aleperrod/perceptron-book/blob/master/when-equations-learn-chapter-5-tensorflow-batch-training.ipynb)
+    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aleperrod/perceptron-book/blob/master/when_equations_learn_chapter_5_tensorflow_batch_training.ipynb)
 
 #### How to Use
 
